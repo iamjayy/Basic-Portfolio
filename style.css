@@ -13,8 +13,21 @@ img {
 body {
     padding: 20px;
     margin: 0 auto;
-    margin-left: 27%;
-    
-    max-width: 700px;
-    width: 80%;
+    margin-left: 33%;
+    margin-right: 33%;
+
+}
+
+#contact {
+    background-color: black;
+}
+
+footer {
+    text-align: center;
+    background-color: #666666;
+    padding: 20px;
+    width: 500px;
+    color: white;
+    border-width: 5px;
+    border-style: solid;
 }
