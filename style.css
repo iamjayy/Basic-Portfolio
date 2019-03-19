@@ -5,29 +5,9 @@ header {
     border-color: #cccccc;
 }
 
-img {
-    height: 33%;
-    width: 33%;
-}
+
 
 body {
     padding: 20px;
-    margin: 0 auto;
-    margin-left: 33%;
-    margin-right: 33%;
-
-}
-
-#contact {
-    background-color: black;
-}
-
-footer {
-    text-align: center;
-    background-color: #666666;
-    padding: 20px;
-    width: 500px;
-    color: white;
-    border-width: 5px;
-    border-style: solid;
+    
 }
